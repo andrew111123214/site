@@ -21,10 +21,6 @@ body
             text-decoration: none;
             color: black;
         }
-        a:hover
-        {
-            text-decoration-color: white;    
-        }
         .name
         {
             font-size: 30px;
