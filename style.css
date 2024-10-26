@@ -55,3 +55,7 @@ body
             padding: 25px;
             box-sizing: border-box;
         }
+        .link
+        {
+            color: green;
+        }
