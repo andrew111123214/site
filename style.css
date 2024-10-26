@@ -38,9 +38,8 @@ body
             width: 1000px;
             height: 100px;
             background-color: rgb(228, 137, 19);
-            text-align: center;
-            margin-left: 25%;
-            padding:50px;
-            box-sizing: border-box;
+            text-align:center;
+            margin-left:25%;
+            padding: 20px;
+            box-sizing:border-box;
         }
-            
