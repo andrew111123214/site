@@ -7,8 +7,7 @@ body
             background-image: url("фон.png");
             width: 60%;
             height: 250px;
-            margin-top: 1%;
-            
+            margin:0 auto;
         }
         .container_2
         {
