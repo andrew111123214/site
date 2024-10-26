@@ -49,9 +49,8 @@ body
         }
         .basic
         {
-            font-size: x-large;
+            font-size:14px;
             font-family: 'Courier New', Courier, monospace;
-            
             color: white;
         }
         nav
