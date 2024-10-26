@@ -54,8 +54,10 @@ body
         }
         nav
         {
+            font-size: x-large;
+            font-family: 'Courier New', Courier, monospace;
             text-align: center;
-
+            margin-right: 20px;
         }
         .footer
         {
