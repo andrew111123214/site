@@ -3,8 +3,8 @@ body
             background-color: rgba(211, 211, 206, 0.877);
         }
         .container
-        {
-            background-color: rgb(228, 137, 19);
+        { 
+            background-image: url("фон.jpg");
             width: 1000px;
             height: 200px;
             margin-top: 1%;
