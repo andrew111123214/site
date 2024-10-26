@@ -4,7 +4,7 @@ body
         }
         .container
         {
-            background-color: rgb(143, 11, 184);
+            background-color: rgb(228, 137, 19);
             width: 1000px;
             height: 200px;
             margin-top: 1%;
@@ -13,13 +13,12 @@ body
         .container_2
         {
             margin-bottom: 50px;
-            margin-left: 50px;
             text-align: center;
         }
         .name
         {
             font-size: 30px;
-            color: white;
+            color: black;
             font-family: 'Courier New', Courier, monospace;
            text-align: center;
         }
