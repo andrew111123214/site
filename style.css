@@ -8,7 +8,7 @@ body
             width: 1000px;
             height: 250px;
             margin-top: 1%;
-            margin-left: 25%;
+            margin-left: 10%;
         }
         .container_2
         {
@@ -33,7 +33,7 @@ body
             background-color: white;
             width: 1000px;
             height:auto;
-            margin-left: 25%;
+            margin-left: 10%;
             padding:0px 10px 0px 10px;
             box-sizing: border-box;
         }
@@ -65,7 +65,7 @@ body
             height: 100px;
             background-color: rgb(228, 137, 19);
             text-align:center;
-            margin-left:25%;
+            margin-left:10%;
             padding: 25px;
             box-sizing: border-box;
         }
