@@ -25,14 +25,14 @@ body
             font-size: 30px;
             color:white;
             font-family: 'Courier New', Courier, monospace;
-           text-align: center;
+            text-align: center;
         }
         .container1
         {
             background-color: white;
             width: 1000px;
             height:auto;
-            margin-left: 10%;
+            margin:0 auto;
             padding:0px 10px 0px 10px;
             box-sizing: border-box;
         }
@@ -64,7 +64,7 @@ body
             height: 100px;
             background-color: rgb(228, 137, 19);
             text-align:center;
-            margin-left:10%;
+            margin:0 auto;
             padding: 25px;
             box-sizing: border-box;
         }
