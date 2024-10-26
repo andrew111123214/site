@@ -5,6 +5,8 @@ body
         .container
         { 
             background-image: url("фон.jpg");
+            background-clip: border-box;
+            background-origin: border-box;
             width: 1000px;
             height: 200px;
             margin-top: 1%;
