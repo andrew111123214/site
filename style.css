@@ -35,7 +35,9 @@ body
         }
         .footer
         {
-
+            
+            width: 1000px;
+            height: auto;
             background-color: aqua;
             text-align: center;
         }
