@@ -20,6 +20,10 @@ body
             text-decoration: none;
             color: black;
         }
+        a:hover
+        {
+            background-color: white;
+        }
         .name
         {
             font-size: 30px;
