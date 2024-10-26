@@ -40,8 +40,7 @@ body
             background-color: rgb(228, 137, 19);
             text-align: center;
             margin-left: 25%;
-        }
-        .footer_1
-        {
             padding:50px;
+            box-sizing: border-box;
         }
+            
