@@ -51,6 +51,10 @@ body
             text-align: center;
             color: white;
         }
+        nav
+        {
+            text-align: center;
+        }
         .footer
         {
             width: 1000px;
