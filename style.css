@@ -22,7 +22,7 @@ body
         }
         a:hover
         {
-            background-color: white;
+            text-decoration-color: white;    
         }
         .name
         {
