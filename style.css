@@ -49,7 +49,9 @@ body
         }
         .basic
         {
-            text-align: center;
+            font-size: x-large;
+            font-family: 'Courier New', Courier, monospace;
+            
             color: white;
         }
         nav
