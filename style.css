@@ -14,8 +14,11 @@ body
         {
             margin-bottom: 50px;
             text-align: center;
-            text-decoration:none;
+        }
+        .text
+        {
             color: black;
+            text-decoration: none;
         }
         .name
         {
