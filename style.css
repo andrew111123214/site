@@ -9,7 +9,7 @@ body
             height: 200px;
             margin-top: 1%;
             margin-left: 25%;
-            box-sizing: border-box;
+            
         }
         .name
         {
@@ -24,7 +24,7 @@ body
             width: 1000px;
             height:auto;
             margin-left: 25%;
-            padding:10px 10px 0px 10px;
+            padding:0px 10px 0px 10px;
             box-sizing: border-box;
         }
         .social
