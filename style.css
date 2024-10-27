@@ -64,7 +64,16 @@ body
             font-size: x-large;
             font-family: 'Courier New', Courier, monospace;
             text-align: center;
-            margin-right: px;
+        }
+        .blinking
+        {
+            animation: blinkingText 1s infinite;
+        }
+        @keyframes blinkingText
+        {
+                0% { opacity: 1; }
+                50% { opacity: 0; }
+                100% { opacity: 1; }
         }
         .footer
         {
