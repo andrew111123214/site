@@ -1,4 +1,0 @@
-function printResume() 
-{
-    window.print();
-}
