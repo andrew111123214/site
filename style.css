@@ -71,8 +71,6 @@ body
             padding: 25px;
             box-sizing: border-box;
             display: flex;
-            vertical-align: middle;
-            
         }
         .link
         {
