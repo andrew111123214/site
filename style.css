@@ -9,11 +9,16 @@ body
             height: 250px;
             margin:0 auto;
         }
+        .item
+        {
+            text-align: center;
+        }
         .container_2
         {
             display: flex;
             justify-content: space-around;
             margin: 10px;
+            align-items: center;
         }
         a
         {
@@ -45,7 +50,7 @@ body
         img
         {
             width: 40px;
-            height: 40px;
+            height: auto;
             
         }
         .basic
