@@ -58,16 +58,13 @@ body
             font-size:14px;
             font-family: 'Courier New', Courier, monospace;
             color: white;
+            animation: blinkingText 1s infinite;
         }
         nav
         {
             font-size: x-large;
             font-family: 'Courier New', Courier, monospace;
             text-align: center;
-        }
-        .basic
-        {
-            animation: blinkingText 1s infinite;
         }
         @keyframes blinkingText
         {
