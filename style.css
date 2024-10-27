@@ -65,7 +65,7 @@ body
             font-size: x-large;
             font-family: 'Courier New', Courier, monospace;
             text-align: center;
-            margin-block-start: 20px;
+            padding-left: 40px;
         }
         @keyframes blinkingText
         {
