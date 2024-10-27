@@ -68,9 +68,9 @@ body
             background-color: rgb(228, 137, 19);
             text-align:center;
             margin:0 auto;
-            padding: 25px;
             box-sizing: border-box;
             display: flex;
+            vertical-align: middle;
         }
         .link
         {
