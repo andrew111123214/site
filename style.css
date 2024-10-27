@@ -27,6 +27,7 @@ body
             color:white;
             font-family: 'Courier New', Courier, monospace;
             text-align: center;
+            padding-top: 10px;
         }
         .container1
         {
@@ -73,3 +74,4 @@ body
         {
             color: green;
         }
+        
