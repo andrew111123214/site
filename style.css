@@ -65,7 +65,7 @@ body
             font-family: 'Courier New', Courier, monospace;
             text-align: center;
         }
-        .blinking
+        .basic
         {
             animation: blinkingText 1s infinite;
         }
