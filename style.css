@@ -71,6 +71,7 @@ body
             box-sizing: border-box;
             display: flex;
             vertical-align: middle;
+            justify-content: center;
         }
         .link
         {
