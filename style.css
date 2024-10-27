@@ -77,5 +77,6 @@ body
         h1
         {
             font-family: 'Times New Roman', Times, serif;
-            color: #4A4A4A; 
+            color: #4A4A4A;
+            font-family: 'Courier New', Courier, monospace;
         }
