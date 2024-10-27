@@ -59,7 +59,7 @@ body
             font-size: x-large;
             font-family: 'Courier New', Courier, monospace;
             text-align: center;
-            margin-right: 40px;
+            margin-right: px;
         }
         .footer
         {
@@ -70,6 +70,9 @@ body
             margin:0 auto;
             padding: 25px;
             box-sizing: border-box;
+            display: flex;
+            vertical-align: middle;
+            align-items: center;
         }
         .link
         {
